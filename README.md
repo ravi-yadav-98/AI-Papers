@@ -6,7 +6,7 @@ Focused on understanding core ideas, methods, and practical insights from each p
 ---
 
 ## 📌 Currently Reading
-- **[Why Language Models Hallucinate](https://arxiv.org/abs/2501.xxxxx)**  
+- **[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)**  
 
 ---
 
