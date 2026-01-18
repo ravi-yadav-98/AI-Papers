@@ -16,7 +16,7 @@ Focused on understanding core ideas, methods, and practical insights from each p
 |------:|-------------|------------------|
 | 1 | [GAUSSIAN ERROR LINEAR UNITS (GELUS)](https://arxiv.org/pdf/1606.08415) | #Activation Function |
 | 2 | [Why Language Models Hallucinate](https://arxiv.org/pdf/2509.04664) | #LLMs, #Hallucination |
-| 2 | [Recursive Language Models](https://arxiv.org/abs/2512.24601) | #LLMs, #RLMs|
-| 3 | [XXXXX](https://arxiv.org/pdf/2509.04664) | #LLMs, |
+| 3 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)| #LLMs, #Neural Network |
+| 4 | [Recursive Language Models](https://arxiv.org/abs/2512.24601) | #LLMs, #RLMs|
 
 ---
